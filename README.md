@@ -3,7 +3,7 @@
   #
   
   ### Sobre
-   🚀 Desenvolvedor back-end Java.
+   🚀 Desenvolvedor .
    <br> 🎓 Formado em Análise e Desenvolvimento de Sistemas.
     <br> 📚 
   
