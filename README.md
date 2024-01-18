@@ -22,7 +22,8 @@
     <img align="center" alt="Guilherme-GitHub" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
     <img align="center" alt="Guilherme-GitLab" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Guilherme-JetBrains" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-    <img align="center" alt="Guilherme-Ira" height="50" width="50" src="<!-- Insira o link da imagem do ícone correspondente a Ira -->">
+    <img align="center" alt="Guilherme-Ira" height="50" width="50" src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/icons/ira-icon.png">
+
     <img align="center" alt="Guilherme-Figma" height="50" width="50" src="<!-- Insira o link da imagem do ícone correspondente a Figma -->">
     <img align="center" alt="Guilherme-Postman" height="50" width="50" src="<!-- Insira o link da imagem do ícone correspondente a Postman -->">
     <img align="center" alt="Guilherme-Selenium" height="50" width="50" src="<!-- Insira o link da imagem do ícone correspondente a Selenium -->">
