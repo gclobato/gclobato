@@ -35,9 +35,9 @@
   * Comandos SQL
   
 ## Certificações
-  * 
- 
-   
+  
+  Accredited Software Testing Fundamentals Certification (ASTFC)
+  
 ## Banco de dados que domino
   
    <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
