@@ -36,7 +36,13 @@
   
 ## Certificações
   
-  Accredited Software Testing Fundamentals Certification (ASTFC)
+
+Scrum Fundamentals Certified (SFC™)
+Accredited Software Testing Fundamentals Certification (ASTFC)
+ISO 9001 Quality Management Systems Associate™
+ISO/IEC 20000 IT Service Management Associate™
+RemoteWork and Virtual CollaborationCSD - Certified Scrum Developer
+
   
 ## Banco de dados que domino
   
